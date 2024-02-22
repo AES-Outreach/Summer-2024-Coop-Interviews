@@ -46,7 +46,7 @@ body:
     id: hosted-url
     attributes:
       label: Hosted URL
-      description: This is the URL for your hosted project.
+      description: This is the URL for your hosted project. NOTE: if you are not hosting your project, please provide screenshots of your application in your submission or README file
   - type: textarea
     id: run-instructions
     attributes:
